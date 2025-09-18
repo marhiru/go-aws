@@ -1,0 +1,3 @@
+package goaws
+
+func main() {}
